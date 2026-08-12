@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "AETHERIX-WxBJ.aternos.me",
+    "port": 28779,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "Hello! I'm Siam's Bot!",
+        "Welcome Aix Server!",
+        "Bot Owner: Siam"
       ]
     },
     "chat-log": true,
